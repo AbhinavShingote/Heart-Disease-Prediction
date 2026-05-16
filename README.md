@@ -47,6 +47,8 @@ A multimodal AI system for heart disease prediction using:
 ---
 
 ## 📁 Project Structure
+
+```
 Heart_PA/
 ├── notebooks/
 │   ├── 01_Classification_Clustering.ipynb
@@ -60,7 +62,9 @@ Heart_PA/
 ├── app.py           ← Streamlit dashboard
 ├── agentic_ai.py    ← LangChain Agent
 ├── requirements.txt
+├── .gitignore
 └── README.md
+```
 
 ---
 
