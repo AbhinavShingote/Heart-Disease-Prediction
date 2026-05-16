@@ -14,6 +14,16 @@ env/
 *.h5
 *.pkl
 
+# Model and data folders
+models/
+data/
+
+# Virtual environment
+.venv/
+
+# All CSVs (large datasets)
+*.csv
+
 # VS Code
 .vscode/
 
