@@ -25,6 +25,9 @@ A multimodal AI system for heart disease prediction using:
 - Agentic AI (LangChain ReAct)
 - Generative AI (Google Gemini API)
 
+### 🎥 Dashboard Demo
+![Streamlit Dashboard](assets/dashboard.png)
+
 ---
 
 ## 📊 Model Results
@@ -43,6 +46,9 @@ A multimodal AI system for heart disease prediction using:
 | ResNet50 | 87.50% |
 | RNN/GRU | 87.39% |
 | LSTM | 81.11% |
+
+### 📊 Results Visualization
+![Model Results](assets/results.png)
 
 ---
 
@@ -84,6 +90,19 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+### 📝 User Input Form
+![Input Form](assets/input_form.png)
+
+---
+
+## 🤖 AI Features
+
+### Agentic AI (LangChain ReAct)
+![Agentic AI Demo](assets/agenticai.png)
+
+### Generative AI (Google Gemini)
+![Generative AI Analysis](assets/genai.png)
 
 ---
 
