@@ -6,8 +6,8 @@
 ### Team Members
 | PRN | Roll No. | Name |
 |-----|---------|------|
-| 202301040145 | EDA41 | Pratik Shamrao Patil |
 | 202301040140 | EDA39 | Abhinav Kishor Shingote |
+| 202301040145 | EDA41 | Pratik Shamrao Patil |
 | 202301040142 | EDA40 | Devarshi Nandeshwar |
 | 202301040108 | EDA29 | Ravindra Nagtilak |
 | 202301040109 | EDA30 | Prachit Kamble |
